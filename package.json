@@ -1,0 +1,26 @@
+{
+  "name": "electron-vars",
+  "version": "0.0.1-alpha.0",
+  "description": "Set and get data in electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "keywords": [
+    "electron",
+    "storage"
+  ],
+  "author": "Jianfei",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jianfei/electron-vars.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jianfei/electron-vars/issues"
+  },
+  "homepage": "https://github.com/jianfei/electron-vars",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
